@@ -1,0 +1,6 @@
+% Jingchang_Liu
+% 2016/3/8/
+% a realization of logistic regression
+
+% get the data
+data = csvread('E:\Users\Matlab\')
